@@ -1,9 +1,9 @@
 # UFOs
 
-#project overview: 
+##project overview: 
 to create a webpage that provides an in depth analysis of UFO sightings. Users can filter the UFO sightings data by multiple filters. 
 
-#results: 
+##results: 
 - Navigate to: file:///Users/nitashagill/Desktop/Bootcamp/UFOs/index.html
 
 ![webpage_ss](https://user-images.githubusercontent.com/113721712/221436963-bdb623d7-ff37-4cb7-b375-e65c2cb55574.png)
@@ -15,7 +15,7 @@ to create a webpage that provides an in depth analysis of UFO sightings. Users c
 ![Filtered_webpage](https://user-images.githubusercontent.com/113721712/221437105-ca35a0b5-f402-495e-885b-2d1284271279.png)
 - Based on the above filter, there were 5 UFO sightings in the city of el cajon. 
 
-#summary: 
+##summary: 
 There are a few potential areas of improvement for the webpage: 
 - The data file is static and is not connected to a live database that continually updates with new UFO sightings 
 - The 'duration' column could use some cleaning as the data is not all in the same format (e.g. 5 mins vs 5 minutes) 
